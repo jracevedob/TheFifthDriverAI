@@ -29,3 +29,7 @@ Javier Acevedo - Dresden - Project maintainer and hardware developer - jracevedo
 ## License
 
 This project is licensed under the [MIT license](./LICENSE).
+
+## News
+
+06.07.2021 - Project deployment on real testbed. Vitis AI + Docker
