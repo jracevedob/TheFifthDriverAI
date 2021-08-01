@@ -1,4 +1,7 @@
 [![MIT Licensed](https://img.shields.io/apm/l/vim-mode)](https://gitlab.com/jracevedob/thefifthdriver/-/blob/master/LICENSE)
+[![Build Status](https://github.com//jracevedob/Thefifthdriver/actions/workflows/build.yml/badge.svg)](https://github.com//jracevedob/Thefifthdriver/actions)
+[![Documentation Status](https://readthedocs.org/projects/graphriccicurvature/badge/?version=latest)](https://github.com/jracevedob/Thefifthdriver/wiki)
+[![Github All Releases](https://img.shields.io/github/downloads/jracevedob/Thefifthdriver/total.svg)]()
 
 ## The fifth driver
 
@@ -22,9 +25,32 @@ We also would like to thank to the reviewers of this work for porting and valida
 
 ## Contributors and maintainers
 
-Cristian Perez - Paris   - Project maintainer and software developer - felipebrokate@gmail.com
+Javier Acevedo - Dresden - Project maintainer and hardware developer - jracevedob@gmail.com - acevedo@fifthdriverai.com
 
-Javier Acevedo - Dresden - Project maintainer and hardware developer - jracevedob@gmail.com
+Cristian Perez - Paris   - Project maintainer and software developer - felipebrokate@gmail.com - pbrokate@fifthdriverai.com
+
+## Citations
+
+### Published internet articles
+
+https://developer.xilinx.com/en/articles/the-fifth-driver-ai--hardware-based-accelerators-for-adas.html
+
+### Academic publications
+
+```
+@Article{Acevedo2021,
+AUTHOR = {Acevedo, Javier and Pérez Brokate, Cristian and Andy Luo},
+TITLE = {The Fifth Driver AI: Hardware Accelerators for Autonomous Driving and ADAS},
+JOURNAL = {Electronics},
+VOLUME = {},
+YEAR = {2021},
+NUMBER = {},
+ARTICLE-NUMBER = {180},
+URL = {},
+ISSN = {},
+ABSTRACT = {}
+}
+```
 
 ## License
 
