@@ -39,6 +39,7 @@ Cristian Perez - Paris   - Project maintainer and software developer - felipebro
 ### Published internet articles
 
 https://developer.xilinx.com/en/articles/the-fifth-driver-ai--hardware-based-accelerators-for-adas.html
+https://www.hackster.io/javier-cristian/thefifthdriver-machine-learning-driving-assistance-on-fpga-98f295
 
 ### Academic publications
 
@@ -56,6 +57,8 @@ ISSN = {},
 ABSTRACT = {}
 }
 ```
+
+### Press release
 
 ## License
 
